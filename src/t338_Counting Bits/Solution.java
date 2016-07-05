@@ -1,4 +1,4 @@
-package t338;
+package t338_Counting Bits;
 
 
 public class Solution {
