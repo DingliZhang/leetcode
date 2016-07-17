@@ -2,7 +2,7 @@ package t2_Add Two Numbers;
 
 public class Solution {
 	  public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-		     ListNode result = new ListNode(0);//记得要初始化
+		     ListNode result = new ListNode(0);//璁板緱鍒濆鍖栵紝涓嶈null
 		    int carry = 0;
 		    ListNode pointer = result;
 		    while (l1 != null || l2 != null) {
